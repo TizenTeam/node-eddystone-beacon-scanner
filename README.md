@@ -18,7 +18,7 @@ See [examples](examples) folder.
 ## Usage
 
 ```javascript
-var EddystoneBeaconScanner = require('eddystone-beacon-scanner');
+var EddystoneBeaconScanner = require('@abandonware/eddystone-beacon-scanner');
 ```
 
 ### Register event handlers
